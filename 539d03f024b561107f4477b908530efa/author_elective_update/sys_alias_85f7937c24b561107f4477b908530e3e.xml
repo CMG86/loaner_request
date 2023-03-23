@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_alias">
+    <sys_alias action="DELETE">
+        <configuration_template/>
+        <connection_type>http_connection</connection_type>
+        <id>x_cdltd_loaner_req.Github_Credentials</id>
+        <multiple_connections>false</multiple_connections>
+        <name>Github Credentials</name>
+        <parent/>
+        <retry_policy display_value="Default HTTP Retry Policy">ef751ff07301330025d71afe2ff6a7f9</retry_policy>
+        <sys_class_name>sys_alias</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-03-23 11:34:35</sys_created_on>
+        <sys_id>85f7937c24b561107f4477b908530e3e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_cdltd_loaner_req.Github_Credentials</sys_name>
+        <sys_package display_value="Loaner Request" source="x_cdltd_loaner_req">539d03f024b561107f4477b908530efa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">539d03f024b561107f4477b908530efa</sys_scope>
+        <sys_update_name>sys_alias_85f7937c24b561107f4477b908530e3e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-03-23 11:34:35</sys_updated_on>
+        <type>credential</type>
+    </sys_alias>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Loaner Request">539d03f024b561107f4477b908530efa</application>
+        <file_path/>
+        <instance_id>9e0161e497f12990ed309a34a253af58</instance_id>
+        <instance_name>nowlearning-nlinst00656050-dev-001</instance_name>
+        <name>sys_alias_85f7937c24b561107f4477b908530e3e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_alias"><sys_alias action="INSERT_OR_UPDATE"><configuration_template/><connection_type>http_connection</connection_type><id>x_cdltd_loaner_req.Github_Credentials</id><multiple_connections>false</multiple_connections><name>Github Credentials</name><parent/><retry_policy display_value="Default HTTP Retry Policy">ef751ff07301330025d71afe2ff6a7f9</retry_policy><sys_class_name>sys_alias</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-03-23 11:34:35</sys_created_on><sys_id>85f7937c24b561107f4477b908530e3e</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_cdltd_loaner_req.Github_Credentials</sys_name><sys_package display_value="Loaner Request" source="x_cdltd_loaner_req">539d03f024b561107f4477b908530efa</sys_package><sys_policy/><sys_scope display_value="Loaner Request">539d03f024b561107f4477b908530efa</sys_scope><sys_update_name>sys_alias_85f7937c24b561107f4477b908530e3e</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-03-23 11:34:35</sys_updated_on><type>credential</type></sys_alias></record_update>]]></payload>
+        <payload_hash>-2085494788</payload_hash>
+        <record_name>x_cdltd_loaner_req.Github_Credentials</record_name>
+        <reverted_from/>
+        <source>979d03f024b561107f4477b908530efc</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-03-23 11:34:35</sys_created_on>
+        <sys_id>2608d37c24b561107f4477b908530eb1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1870e3fcf230000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-03-23 11:34:35</sys_updated_on>
+        <type>Connection &amp; Credential Aliases</type>
+        <update_guid>6e08d37cecb5611061e3f263f66c98b0</update_guid>
+        <update_guid_history>6e08d37cecb5611061e3f263f66c98b0:-2085494788</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-03-23 11:45:50</sys_created_on>
+        <sys_db_object display_value="" name="sys_alias">sys_alias</sys_db_object>
+        <sys_id>23a10f81aa1f460987d8968443545429</sys_id>
+        <sys_metadata>85f7937c24b561107f4477b908530e3e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_cdltd_loaner_req.Github_Credentials</sys_name>
+        <sys_package display_value="Loaner Request" source="x_cdltd_loaner_req">539d03f024b561107f4477b908530efa</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">539d03f024b561107f4477b908530efa</sys_scope>
+        <sys_scope_delete display_value="">9cc09aad54444100814070cfd80e4000</sys_scope_delete>
+        <sys_update_name>sys_alias_85f7937c24b561107f4477b908530e3e</sys_update_name>
+        <sys_update_version display_value="sys_alias_85f7937c24b561107f4477b908530e3e">2608d37c24b561107f4477b908530eb1</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-03-23 11:45:50</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
